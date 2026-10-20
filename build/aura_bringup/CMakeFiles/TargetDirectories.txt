@@ -1,9 +1,0 @@
-/home/utk/aura_ws/build/aura_bringup/CMakeFiles/uninstall.dir
-/home/utk/aura_ws/build/aura_bringup/CMakeFiles/aura_bringup_uninstall.dir
-/home/utk/aura_ws/build/aura_bringup/CMakeFiles/test.dir
-/home/utk/aura_ws/build/aura_bringup/CMakeFiles/edit_cache.dir
-/home/utk/aura_ws/build/aura_bringup/CMakeFiles/rebuild_cache.dir
-/home/utk/aura_ws/build/aura_bringup/CMakeFiles/list_install_components.dir
-/home/utk/aura_ws/build/aura_bringup/CMakeFiles/install.dir
-/home/utk/aura_ws/build/aura_bringup/CMakeFiles/install/local.dir
-/home/utk/aura_ws/build/aura_bringup/CMakeFiles/install/strip.dir

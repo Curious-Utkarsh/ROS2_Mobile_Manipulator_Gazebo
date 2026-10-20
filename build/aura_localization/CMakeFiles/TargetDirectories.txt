@@ -1,9 +1,0 @@
-/home/utk/aura_ws/build/aura_localization/CMakeFiles/uninstall.dir
-/home/utk/aura_ws/build/aura_localization/CMakeFiles/aura_localization_uninstall.dir
-/home/utk/aura_ws/build/aura_localization/CMakeFiles/test.dir
-/home/utk/aura_ws/build/aura_localization/CMakeFiles/edit_cache.dir
-/home/utk/aura_ws/build/aura_localization/CMakeFiles/rebuild_cache.dir
-/home/utk/aura_ws/build/aura_localization/CMakeFiles/list_install_components.dir
-/home/utk/aura_ws/build/aura_localization/CMakeFiles/install.dir
-/home/utk/aura_ws/build/aura_localization/CMakeFiles/install/local.dir
-/home/utk/aura_ws/build/aura_localization/CMakeFiles/install/strip.dir

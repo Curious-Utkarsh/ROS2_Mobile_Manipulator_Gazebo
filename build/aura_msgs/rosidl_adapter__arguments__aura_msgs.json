@@ -1,6 +1,0 @@
-{
-  "package_name": "aura_msgs",
-  "non_idl_tuples": [
-    "/home/utk/aura_ws/src/aura_msgs:action/AuraTask.action"
-  ]
-}

@@ -1,3 +1,0 @@
-[console_scripts]
-task = aura_script.task:main
-
