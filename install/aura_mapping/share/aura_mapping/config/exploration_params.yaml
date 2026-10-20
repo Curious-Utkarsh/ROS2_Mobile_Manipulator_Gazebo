@@ -1,5 +1,0 @@
-lookahead_distance : 0.24
-speed : 0.6
-expansion_size : 3
-target_error : 0.15
-robot_r : 0.34 

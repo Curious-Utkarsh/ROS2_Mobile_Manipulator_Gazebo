@@ -1,8 +1,0 @@
-setup.py
-aura_controller/__init__.py
-aura_controller/slider_arm.py
-aura_controller/twist_relay_node.py
-aura_controller.egg-info/PKG-INFO
-aura_controller.egg-info/SOURCES.txt
-aura_controller.egg-info/dependency_links.txt
-aura_controller.egg-info/top_level.txt

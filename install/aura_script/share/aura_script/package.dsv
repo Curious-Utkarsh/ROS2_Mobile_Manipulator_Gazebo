@@ -1,6 +1,0 @@
-source;share/aura_script/hook/pythonpath.ps1
-source;share/aura_script/hook/pythonpath.dsv
-source;share/aura_script/hook/pythonpath.sh
-source;share/aura_script/hook/ament_prefix_path.ps1
-source;share/aura_script/hook/ament_prefix_path.dsv
-source;share/aura_script/hook/ament_prefix_path.sh

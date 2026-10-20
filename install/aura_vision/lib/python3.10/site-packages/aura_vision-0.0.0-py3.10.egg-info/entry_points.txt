@@ -1,3 +1,0 @@
-[console_scripts]
-homing = aura_vision.homing:main
-

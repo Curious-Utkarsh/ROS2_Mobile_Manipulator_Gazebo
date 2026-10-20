@@ -1,8 +1,0 @@
-setup.py
-aura_msgs/__init__.py
-aura_msgs.egg-info/PKG-INFO
-aura_msgs.egg-info/SOURCES.txt
-aura_msgs.egg-info/dependency_links.txt
-aura_msgs.egg-info/top_level.txt
-aura_msgs/action/__init__.py
-aura_msgs/action/_aura_task.py

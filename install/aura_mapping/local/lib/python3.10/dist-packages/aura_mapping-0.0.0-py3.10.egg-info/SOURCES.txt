@@ -1,7 +1,0 @@
-setup.py
-aura_mapping/__init__.py
-aura_mapping/aura_frontier_exploration.py
-aura_mapping.egg-info/PKG-INFO
-aura_mapping.egg-info/SOURCES.txt
-aura_mapping.egg-info/dependency_links.txt
-aura_mapping.egg-info/top_level.txt

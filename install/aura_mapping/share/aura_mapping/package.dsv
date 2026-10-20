@@ -1,8 +1,0 @@
-source;share/aura_mapping/hook/cmake_prefix_path.ps1
-source;share/aura_mapping/hook/cmake_prefix_path.dsv
-source;share/aura_mapping/hook/cmake_prefix_path.sh
-source;share/aura_mapping/local_setup.bash
-source;share/aura_mapping/local_setup.dsv
-source;share/aura_mapping/local_setup.ps1
-source;share/aura_mapping/local_setup.sh
-source;share/aura_mapping/local_setup.zsh

@@ -1,8 +1,0 @@
-setup.py
-aura_navigation/__init__.py
-aura_navigation/pose_estimator.py
-aura_navigation/waypoint_following.py
-aura_navigation.egg-info/PKG-INFO
-aura_navigation.egg-info/SOURCES.txt
-aura_navigation.egg-info/dependency_links.txt
-aura_navigation.egg-info/top_level.txt

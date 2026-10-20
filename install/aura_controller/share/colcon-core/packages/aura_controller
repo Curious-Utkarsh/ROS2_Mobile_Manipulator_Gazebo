@@ -1,1 +1,0 @@
-controller_manager:hardware_interface:joy:joy_teleop:libserial-dev:pluginlib:rclcpp:rclcpp_lifecycle:rclpy:robot_state_publisher:ros2_control:ros2_controllers:ros2launch:sensor_msgs:trajectory_msgs:xacro
