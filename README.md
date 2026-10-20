@@ -16,6 +16,8 @@ Aura is a differential-drive robot with a 5-DOF arm and a two-finger gripper tha
 </tr>
 </table>
 
+Build log on LinkedIn (Jan–Feb 2025): [meet Aura](https://www.linkedin.com/feed/update/urn:li:activity:7280264641157414912/) · [URDF from Fusion 360](https://www.linkedin.com/feed/update/urn:li:activity:7280832984570572801/) · [Gazebo simulation](https://www.linkedin.com/feed/update/urn:li:activity:7282055581220196352/) · [autonomous mapping](https://www.linkedin.com/feed/update/urn:li:activity:7282472150022692864/) · [MoveIt on the arm](https://www.linkedin.com/feed/update/urn:li:activity:7285260305759182848/) · [full build](https://www.linkedin.com/feed/update/urn:li:activity:7286963156571013120/) · [Alexa voice control](https://www.linkedin.com/feed/update/urn:li:activity:7297102489537982464/)
+
 ## Key features
 
 - **Autonomous exploration** — frontier detection on the occupancy grid, A\* paths smoothed with B-splines and followed with pure pursuit, while slam_toolbox builds the map.
