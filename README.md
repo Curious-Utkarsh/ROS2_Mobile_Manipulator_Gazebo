@@ -39,7 +39,7 @@ ROS 2 Humble · Nav2 · slam_toolbox · AMCL · MoveIt 2 (C++ MoveGroupInterface
 
 ```bash
 mkdir -p ~/aura_ws && cd ~/aura_ws
-git clone https://github.com/Curious-Utkarsh/ROS2_Mobile_Manipulator_Gazebo.git .
+git clone https://github.com/Curious-Utkarsh/aura-mobile-manipulator.git .
 rosdep install --from-paths src --ignore-src -r -y
 colcon build --symlink-install && source install/setup.bash
 
@@ -49,10 +49,10 @@ ros2 run aura_script task                           # run the mission
 
 ## Related
 
-- [Mobi](https://github.com/Curious-Utkarsh/Indoor_Service_AMR) — the real-hardware service robot that followed Aura
+- [Mobi](https://github.com/Curious-Utkarsh/mobi-service-robot) — the real-hardware service robot that followed Aura
 - [MechaBot](https://github.com/MechaMind-Labs/AMR-Mastery) — docking taken to real hardware
-- [TurtleBot3 ArUco docking](https://github.com/Curious-Utkarsh/TurtleBot3_Autonomous_Docking) — the docking logic Aura builds on
-- [SCARA conveyor cell](https://github.com/Curious-Utkarsh/ROS2_SCARA_WS) — manipulation on real hardware
+- [TurtleBot3 ArUco docking](https://github.com/Curious-Utkarsh/turtlebot3-aruco-docking) — the docking logic Aura builds on
+- [SCARA conveyor cell](https://github.com/Curious-Utkarsh/scara-pick-and-place) — manipulation on real hardware
 
 ## Credits
 
